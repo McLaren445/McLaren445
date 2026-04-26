@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McLaren445
+- 👋 Hi, I’m Madina
 - 👀 I’m interested in CS, MSC, ART...
 - 🌱 I’m currently learning CS and MSC.
 - 💞️ I’m looking to collaborate on CS experts
